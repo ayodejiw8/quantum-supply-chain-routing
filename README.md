@@ -1,5 +1,5 @@
 # Quantum Supply Chain Routing
-# Quantum-Enhanced Supply Chain Routing (VRP)
+## Quantum-Enhanced Supply Chain Routing (VRP)
 **Qiskit Fall Fest 2026 — Florida Institute of Technology**  
 **Author:** Ayodeji Williams (M.S. Operations Research)
 
